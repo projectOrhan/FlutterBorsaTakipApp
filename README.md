@@ -7,7 +7,7 @@ It's an app in Flutter that uses Finnhub API to track stock data.
 başlangıçta main.dart içerisindeki bu tanımlamaya Finnhub.io dan edindiğiniz API key'i girmeniz yeterlidir. 
 <br>
 At startup, simply enter the API key you obtained from Finnhub.io in this definition in main.dart. 
-<br>
+<br><br>
 final String apiKey = 'your-api-key'; // Finnhub API key
 <br>
 
