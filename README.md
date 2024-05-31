@@ -1,7 +1,12 @@
 # FlutterBorsaTakipApp
 Flutter'da Finnhub.io API kullanarak borsa takibi yapan bir uygulama.
+<br>
+Burada Finnhub.io'yu deneyebilmek için ücretsiz API anahtarı sağlaması tercih sebebi oldu. Siz dilerseniz başka benzer API'leri kullanabilirsiniz.
+<br>
 It's an app in Flutter that uses Finnhub API to track stock data.
+Here I chose Finnhub.io because it provides a free API key to try it out. You can use other similar APIs if you wish.
 
+<br>
 
 ## Örnek Kurulum
 başlangıçta main.dart içerisindeki bu tanımlamaya Finnhub.io dan edindiğiniz API key'i girmeniz yeterlidir. 
